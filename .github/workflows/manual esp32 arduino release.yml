@@ -1,4 +1,4 @@
-name: ESP32 Arduino Release
+name: Fiset ESP32 Arduino Release
 
 on:
   # release:
